@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=L2 Old Footprint=FP-LQP03PN_02-IPC_A New Footprint=FP-LQP03PN_02-IPC_A
+Change Component Library : Designator=IC3 Old Library=FYP_BCC_BCP NUS.IntLib New Library=FYP_BCC_BCP NUS Symbol Library.SchLib
+Added Component: Designator=M2(M3 Hole)
+Added Component: Designator=M3(M3 Hole)
+Added Component: Designator=M4(M3 Hole)
+Added Component: Designator=M5(M3 Hole)
+Added Member To Class: ClassName=Schematics Member=Component M2 M3 Mounting Hole
+Added Member To Class: ClassName=Schematics Member=Component M3 M3 Mounting Hole
+Added Member To Class: ClassName=Schematics Member=Component M4 M3 Mounting Hole
+Added Member To Class: ClassName=Schematics Member=Component M5 M3 Mounting Hole

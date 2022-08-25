@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Mar 29 18:05:47 2022
+# Process ID: 14756
+# Current directory: C:/Users/Lingke/Desktop/FYP_Complete_Prototype_Code_Base/Central_Node_FPGA_Prog
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14632 C:\Users\Lingke\Desktop\FYP_Complete_Prototype_Code_Base\Central_Node_FPGA_Prog\Central_Node_FPGA_Prog.xpr
+# Log file: C:/Users/Lingke/Desktop/FYP_Complete_Prototype_Code_Base/Central_Node_FPGA_Prog/vivado.log
+# Journal file: C:/Users/Lingke/Desktop/FYP_Complete_Prototype_Code_Base/Central_Node_FPGA_Prog\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Lingke/Desktop/FYP_Complete_Prototype_Code_Base/Central_Node_FPGA_Prog/Central_Node_FPGA_Prog.xpr
+update_compile_order -fileset sources_1

@@ -1,0 +1,11 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Central_Node_FPGA_Prog/Central_Node_FPGA_Prog.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Central_Node_FPGA_Prog/Central_Node_FPGA_Prog.srcs/sim_1/new/TB.v,1647584352,verilog,,,,TB,,,,,,,,
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Central_Node_FPGA_Prog/Central_Node_FPGA_Prog.srcs/sources_1/imports/new/RX_Demodulator.v,1630135064,verilog,,C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Central_Node_FPGA_Prog/Central_Node_FPGA_Prog.srcs/sources_1/imports/new/UART_TX.v,,RX_Demodulator,,,,,,,,
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Central_Node_FPGA_Prog/Central_Node_FPGA_Prog.srcs/sources_1/imports/new/UART_TX.v,1629969078,verilog,,C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Central_Node_FPGA_Prog/Central_Node_FPGA_Prog.srcs/sources_1/imports/new/clk_1hz.v,,UART_TX,,,,,,,,
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Central_Node_FPGA_Prog/Central_Node_FPGA_Prog.srcs/sources_1/imports/new/clk_1hz.v,1627200187,verilog,,C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Central_Node_FPGA_Prog/Central_Node_FPGA_Prog.srcs/sources_1/new/main.v,,clk_1hz,,,,,,,,
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Central_Node_FPGA_Prog/Central_Node_FPGA_Prog.srcs/sources_1/new/main.v,1647583955,verilog,,C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Central_Node_FPGA_Prog/Central_Node_FPGA_Prog.srcs/sources_1/new/timer_x.v,,main,,,,,,,,
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Central_Node_FPGA_Prog/Central_Node_FPGA_Prog.srcs/sources_1/new/timer_x.v,1647584047,verilog,,C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Central_Node_FPGA_Prog/Central_Node_FPGA_Prog.srcs/sim_1/new/TB.v,,timer_x,,,,,,,,

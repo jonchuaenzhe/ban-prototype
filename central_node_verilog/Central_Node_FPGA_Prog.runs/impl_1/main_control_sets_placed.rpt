@@ -1,0 +1,89 @@
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Tue Mar 22 20:44:38 2022
+| Host         : DESKTOP-864GRHJ running 64-bit major release  (build 9200)
+| Command      : report_control_sets -verbose -file main_control_sets_placed.rpt
+| Design       : main
+| Device       : xc7a35t
+------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Histogram
+3. Flip-Flop Distribution
+4. Detailed Control Set Information
+
+1. Summary
+----------
+
++----------------------------------------------------------+-------+
+|                          Status                          | Count |
++----------------------------------------------------------+-------+
+| Total control sets                                       |    11 |
+|    Minimum number of control sets                        |    11 |
+|    Addition due to synthesis replication                 |     0 |
+|    Addition due to physical synthesis replication        |     0 |
+| Unused register locations in slices containing registers |    40 |
++----------------------------------------------------------+-------+
+* Control sets can be merged at opt_design using control_set_merge or merge_equivalent_drivers
+** Run report_qor_suggestions for automated merging and remapping suggestions
+
+
+2. Histogram
+------------
+
++--------------------+-------+
+|       Fanout       | Count |
++--------------------+-------+
+| Total control sets |    11 |
+| >= 0 to < 4        |     3 |
+| >= 4 to < 6        |     0 |
+| >= 6 to < 8        |     0 |
+| >= 8 to < 10       |     3 |
+| >= 10 to < 12      |     3 |
+| >= 12 to < 14      |     0 |
+| >= 14 to < 16      |     0 |
+| >= 16              |     2 |
++--------------------+-------+
+* Control sets can be remapped at either synth_design or opt_design
+
+
+3. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |              31 |           12 |
+| No           | No                    | Yes                    |               0 |            0 |
+| No           | Yes                   | No                     |              34 |            9 |
+| Yes          | No                    | No                     |              25 |            8 |
+| Yes          | No                    | Yes                    |               0 |            0 |
+| Yes          | Yes                   | No                     |              22 |           10 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
+4. Detailed Control Set Information
+-----------------------------------
+
++-------------------+----------------------------+-----------------------+------------------+----------------+
+|    Clock Signal   |        Enable Signal       |    Set/Reset Signal   | Slice Load Count | Bel Load Count |
++-------------------+----------------------------+-----------------------+------------------+----------------+
+|  sysclk_IBUF_BUFG |                            | BCP_TX_Enable_i_1_n_0 |                1 |              1 |
+|  sysclk_IBUF_BUFG | tx_out/o_Tx_Serial_i_1_n_0 |                       |                1 |              1 |
+|  clk_1hz/clk      |                            |                       |                1 |              2 |
+|  sysclk_IBUF_BUFG | RX/E[0]                    |                       |                3 |              8 |
+|  sysclk_IBUF_BUFG | tx_out/E[0]                |                       |                3 |              8 |
+|  sysclk_IBUF_BUFG | tx_out/r_Tx_Data_1         |                       |                1 |              8 |
+|  clk_1hz/clk      |                            | reset                 |                2 |             10 |
+|  sysclk_IBUF_BUFG | RX/r_Clock_Count           | RX/r_Clock_Count0     |                6 |             11 |
+|  sysclk_IBUF_BUFG | tx_out/r_Clock_Count_0     | tx_out/r_Clock_Count0 |                4 |             11 |
+|  sysclk_IBUF_BUFG |                            | clk_1hz/clear         |                6 |             23 |
+|  sysclk_IBUF_BUFG |                            |                       |               11 |             29 |
++-------------------+----------------------------+-----------------------+------------------+----------------+
+
+

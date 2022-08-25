@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetC17_2 New Net Name=ED Out
+Change Net Name : Old Net Name=NetD4_1 New Net Name=Comparator 1 out
+Change Net Name : Old Net Name=NetIC5_2 New Net Name=Comparator 1 Vref
+Change Net Name : Old Net Name=NetIC6_2 New Net Name=Comparator 2 Vref

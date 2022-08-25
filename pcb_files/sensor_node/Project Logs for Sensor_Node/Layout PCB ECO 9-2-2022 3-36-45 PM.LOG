@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=ECG SDN Pin=J2-3
+Removed Pin From Net: NetName=ECG SDN Pin=P7-3
+Change Component Comment : Designator=ROK1 Old Comment=4.99M Ohm New Comment=3.09M Ohm
+Change Component Comment : Designator=ROUT1 Old Comment=5.1M Ohm New Comment=6.19M Ohm
+Change Component Comment : Designator=ROV2 Old Comment=5.9M Ohm New Comment=8.45M Ohm
+Change Component Comment : Designator=ROK2 Old Comment=7.5M Ohm New Comment=3.32M Ohm
+Change Component Comment : Designator=ROV1 Old Comment=7.15M Ohm New Comment=4.53M Ohm
+Change Component Comment : Designator=ROUT2 Old Comment=7.68M Ohm New Comment=6.65M Ohm
+Change Component Comment : Designator=ROK3 Old Comment=412K Ohm New Comment=6.49M Ohm
+Added Component: Designator=C21(0603)
+Added Component: Designator=P14(61300211121)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/61300211121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Number"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BCP Vin Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=ECG SDN Pin=P14-1
+Added Pin To Net: NetName=ECG Power IN Pin=P14-2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=P7-3
+Added Net: Name=NetJ2_3
+Added Member To Class: ClassName=Schematics Member=Component C21 0.1uF
+Added Member To Class: ClassName=Schematics Member=Component P14 61300211121

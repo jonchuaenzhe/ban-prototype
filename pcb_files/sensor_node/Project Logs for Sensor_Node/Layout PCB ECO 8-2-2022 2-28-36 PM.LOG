@@ -1,0 +1,4 @@
+Added Component: Designator=CIN_Add(0603)
+Added Pin To Net: NetName=GND Pin=CIN_Add-1
+Added Pin To Net: NetName=BCP Vin Pin=CIN_Add-2
+Added Member To Class: ClassName=Schematics Member=Component CIN_Add 0.1uF

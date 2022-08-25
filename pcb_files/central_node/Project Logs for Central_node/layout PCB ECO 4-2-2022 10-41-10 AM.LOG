@@ -1,0 +1,14 @@
+Added Component: Designator=IC3(PPAK)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00003403.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "27/10/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "5-Pin Transistor Outline Package 1.27 mm Pitch, 9.7 mm Lead Span"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PPAK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "1/06/2004"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FPGA_Enable Pin=IC3-1
+Added Pin To Net: NetName=Vin Pin=IC3-2
+Added Pin To Net: NetName=NetC7_2 Pin=IC3-4
+Added Pin To Net: NetName=GND Pin=IC3-6
+Added Member To Class: ClassName=Schematics Member=Component IC3 LD29150PT50R

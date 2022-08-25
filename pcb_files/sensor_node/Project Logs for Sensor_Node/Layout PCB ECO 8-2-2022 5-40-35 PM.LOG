@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=VSTOR Pin=IC8-6
+Added Pin To Net: NetName=VBatt_OK Pin=IC8-6

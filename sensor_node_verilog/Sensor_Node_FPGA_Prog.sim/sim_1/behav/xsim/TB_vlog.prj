@@ -1,0 +1,19 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Sensor_Node_FPGA_Prog.srcs/sources_1/ip/xadc_wiz_0/xadc_wiz_0.v" \
+"../../../../Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/ADC_Related.v" \
+"../../../../Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/BCC_Controller.v" \
+"../../../../Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/BCC_TX.v" \
+"../../../../Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/ECG_Read.v" \
+"../../../../Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/UART_Controller.v" \
+"../../../../Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/UART_TX.v" \
+"../../../../Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/bin2bcd.v" \
+"../../../../Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/clk_1hz.v" \
+"../../../../Sensor_Node_FPGA_Prog.srcs/sources_1/new/main.v" \
+"../../../../Sensor_Node_FPGA_Prog.srcs/sim_1/new/TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,115 @@
+/*
+
+Xilinx Vivado v2019.2 (64-bit) [Major: 2019, Minor: 2]
+SW Build: 2708876 on Wed Nov  6 21:40:23 MST 2019
+IP Build: 2700528 on Thu Nov  7 00:09:20 MST 2019
+
+Process ID (PID): 14756
+License: Customer
+
+Current time: 	Tue Mar 29 18:06:06 SRET 2022
+Time zone: 	Singapore Standard Time (Asia/Singapore)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 2880x1800
+Screen resolution (DPI): 175
+Available screens: 1
+Available disk space: 20 GB
+Default font: family=Segoe UI,name=Segoe UI,style=plain,size=21
+
+Java version: 	9.0.4 64-bit
+Java home: 	C:/Xilinx/Vivado/2019.2/tps/win64/jre9.0.4
+Java executable location: 	C:/Xilinx/Vivado/2019.2/tps/win64/jre9.0.4/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	Lingke
+User home directory: C:/Users/Lingke
+User working directory: C:/Users/Lingke/Desktop/FYP_Complete_Prototype_Code_Base/Central_Node_FPGA_Prog
+User country: 	SG
+User language: 	en
+User locale: 	en_SG
+
+RDI_BASEROOT: C:/Xilinx/Vivado
+HDI_APPROOT: C:/Xilinx/Vivado/2019.2
+RDI_DATADIR: C:/Xilinx/Vivado/2019.2/data
+RDI_BINDIR: C:/Xilinx/Vivado/2019.2/bin
+
+Vivado preferences file location: C:/Users/Lingke/AppData/Roaming/Xilinx/Vivado/2019.2/vivado.xml
+Vivado preferences directory: C:/Users/Lingke/AppData/Roaming/Xilinx/Vivado/2019.2/
+Vivado layouts directory: C:/Users/Lingke/AppData/Roaming/Xilinx/Vivado/2019.2/layouts
+PlanAhead jar file location: 	C:/Xilinx/Vivado/2019.2/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/Lingke/Desktop/FYP_Complete_Prototype_Code_Base/Central_Node_FPGA_Prog/vivado.log
+Vivado journal file location: 	C:/Users/Lingke/Desktop/FYP_Complete_Prototype_Code_Base/Central_Node_FPGA_Prog/vivado.jou
+Engine tmp dir: 	C:/Users/Lingke/Desktop/FYP_Complete_Prototype_Code_Base/Central_Node_FPGA_Prog/.Xil/Vivado-14756-DESKTOP-864GRHJ
+
+Xilinx Environment Variables
+----------------------------
+XILINX: C:/Xilinx/Vivado/2019.2/ids_lite/ISE
+XILINX_DSP: C:/Xilinx/Vivado/2019.2/ids_lite/ISE
+XILINX_PLANAHEAD: C:/Xilinx/Vivado/2019.2
+XILINX_SDK: C:/Xilinx/Vitis/2019.2
+XILINX_VITIS: C:/Xilinx/Vitis/2019.2
+XILINX_VIVADO: C:/Xilinx/Vivado/2019.2
+XILINX_VIVADO_HLS: C:/Xilinx/Vivado/2019.2
+
+
+GUI allocated memory:	154 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 639 MB
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// bB (cr):  Open Project : addNotify
+// Opening Vivado Project: C:\Users\Lingke\Desktop\FYP_Complete_Prototype_Code_Base\Central_Node_FPGA_Prog\Central_Node_FPGA_Prog.xpr. Version: Vivado v2019.2 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project C:/Users/Lingke/Desktop/FYP_Complete_Prototype_Code_Base/Central_Node_FPGA_Prog/Central_Node_FPGA_Prog.xpr 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project C:/Users/Lingke/Desktop/FYP_Complete_Prototype_Code_Base/Central_Node_FPGA_Prog/Central_Node_FPGA_Prog.xpr 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Central_Node_FPGA_Prog' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [filemgmt 56-1] Board Part Repository Path: Directory not found as 'C:/Users/AppData/Roaming/Xilinx/Vivado/2019.1/xhub/board_store'; using path 'C:/Users/Lingke/AppData/Roaming/Xilinx/Vivado/2019.1/xhub/board_store' instead. INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// TclEventType: PROJECT_NEW
+// HMemoryUtils.trashcanNow. Engine heap size: 671 MB. GUI used memory: 67 MB. Current time: 3/29/22, 6:06:08 PM SRET
+// [GUI Memory]: 89 MB (+90357kb) [00:00:13]
+// [Engine Memory]: 692 MB (+573647kb) [00:00:13]
+// [GUI Memory]: 105 MB (+12109kb) [00:00:13]
+// [GUI Memory]: 120 MB (+10954kb) [00:00:15]
+// [Engine Memory]: 732 MB (+6250kb) [00:00:15]
+// WARNING: HEventQueue.dispatchEvent() is taking  3625 ms.
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.2/data/ip'. 
+// Tcl Message: open_project: Time (s): cpu = 00:00:16 ; elapsed = 00:00:08 . Memory (MB): peak = 776.453 ; gain = 148.160 
+// [Engine Memory]: 790 MB (+21830kb) [00:00:17]
+// Project name: Central_Node_FPGA_Prog; location: C:/Users/Lingke/Desktop/FYP_Complete_Prototype_Code_Base/Central_Node_FPGA_Prog; part: xc7a35tcpg236-1
+dismissDialog("Open Project"); // bB (cr)
+// Tcl Message: update_compile_order -fileset sources_1 

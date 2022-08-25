@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Central_Node_FPGA_Prog.srcs/sources_1/imports/new/RX_Demodulator.v" \
+"../../../../Central_Node_FPGA_Prog.srcs/sources_1/imports/new/UART_TX.v" \
+"../../../../Central_Node_FPGA_Prog.srcs/sources_1/imports/new/clk_1hz.v" \
+"../../../../Central_Node_FPGA_Prog.srcs/sources_1/new/main.v" \
+"../../../../Central_Node_FPGA_Prog.srcs/sources_1/new/timer_x.v" \
+"../../../../Central_Node_FPGA_Prog.srcs/sim_1/new/TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

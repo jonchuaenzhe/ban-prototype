@@ -1,0 +1,16 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sim_1/new/TB.v,1647592087,verilog,,,,TB,,,,,,,,
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/ADC_Related.v,1647354649,verilog,,C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/BCC_Controller.v,,ADC_Related,,,,,,,,
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/BCC_Controller.v,1647410542,verilog,,C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/BCC_TX.v,,BCC_Controller,,,,,,,,
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/BCC_TX.v,1631775857,verilog,,C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/ECG_Read.v,,BCC_TX,,,,,,,,
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/ECG_Read.v,1647354658,verilog,,C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/UART_Controller.v,,ECG_Read,,,,,,,,
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/UART_Controller.v,1647327929,verilog,,C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/UART_TX.v,,UART_Controller,,,,,,,,
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/UART_TX.v,1631503338,verilog,,C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/bin2bcd.v,,UART_TX,,,,,,,,
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/bin2bcd.v,1643542859,verilog,,C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/clk_1hz.v,,bin2bcd,,,,,,,,
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/clk_1hz.v,1627200187,verilog,,C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/new/main.v,,clk_1hz,,,,,,,,
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/ip/xadc_wiz_0/xadc_wiz_0.v,1647591262,verilog,,C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/imports/new/ADC_Related.v,,xadc_wiz_0,,,,,,,,
+C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sources_1/new/main.v,1647591893,verilog,,C:/Users/Lingke/Desktop/FYP/Final Demo Prototype/Sensor_Node_FPGA_Prog/Sensor_Node_FPGA_Prog.srcs/sim_1/new/TB.v,,main,,,,,,,,
