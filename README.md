@@ -1,4 +1,5 @@
-# ban-prototype
+Jul 2021 - May 2022
+# Body Area Network System for Wearable Sensors
 
 This project is an Undergrad Research Project with NUS under A/Prof Jerald Yoo (currently drafting a paper submission to TBioCAS). We developed the first Body Area Network (BAN) system in which Body-Coupled Powering (BCP) and Body-Coupled Communication (BCC) were implemented together in a single system. 
 
