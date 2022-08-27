@@ -4,7 +4,7 @@ This project is an Undergrad Research Project with NUS under A/Prof Jerald Yoo (
 
 In the video below, the Central Node (near the hand) wirelessly transmits power through the arm to charge a Sensor Node (near the chest), which powers an ECG sensor. The recorded ECG data is then transmitted through the arm to the Central Node, which sends the data for display on the computer. 
 
-https://user-images.githubusercontent.com/59247141/186712875-12e1bca3-517a-4aa3-9227-2e6ee5e8f304.mp4
+https://user-images.githubusercontent.com/59247141/187022245-3df6c934-746d-4376-8a83-e56f6ed6753e.mp4
 
 This repository consists of the circuit design and PCB files, as well as the verilog code that was implemented on the microcontrollers (FPGA) in the Central and Sensor nodes.
 
